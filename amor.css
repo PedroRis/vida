@@ -1,0 +1,42 @@
+header {
+	padding-left: 30px ;
+}
+
+#minhamenina {
+	width: 100%;
+}
+
+.principal {
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+	font-weight: bold;
+}
+
+
+.amor {
+	text-align: center;
+	background: #CCCCCC;
+	padding-bottom: 30px;
+}
+
+.titulo {
+	font-size: 30px;
+	padding: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+strong {
+	font-weight: bold;
+}
+
+p {
+	font-size: 21px;
+	text-align: center;
+}
+
+em strong {
+	color: red;
+}
